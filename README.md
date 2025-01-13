@@ -1,1 +1,1 @@
-# new-york-city-blog
+In this project, I created a webpage using only semantic elements. I learned how to write clearer, more accessible HTML using Semantic HTML tags and about the importance of Semantic HTML along with its benefits.
